@@ -1,9 +1,11 @@
 # Demosite.github.io
 
 This is a Simple website created using languages such as
-#HTML
-#CSS
-it is not a responsive website 
+
+
+# HTML
+# CSS
+
 
 
 Below I have attached the screenshot and Video of website look:
