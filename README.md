@@ -1,4 +1,4 @@
-# Demosite.github.io
+# Demo Website
 
 This is a Simple website created using languages such as
 
