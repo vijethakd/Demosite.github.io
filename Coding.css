@@ -110,3 +110,10 @@ section .btntwo{
     100%{content: " To Build Project Of Your Own";}
     
 }
+ /* responsive */
+  @media (max-width:990px) {
+    .title-image {
+      position: static;
+      max-width: 100%;
+      height: auto;
+    }
