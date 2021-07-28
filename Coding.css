@@ -117,3 +117,7 @@ section .btntwo{
       max-width: 100%;
       height: auto;
     }
+.title {
+      text-align: center;
+    }
+  }
